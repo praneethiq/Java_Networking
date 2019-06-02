@@ -1,0 +1,720 @@
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:04 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:07 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:09 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:13 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:15 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:17 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:20 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:22 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:25 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:27 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:29 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 14:20:32 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:39 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:41 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:44 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:47 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:49 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:52 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:54 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:57 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:08:59 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:02 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:04 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:06 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:38 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:41 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:43 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:47 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:49 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:51 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:54 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:56 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:09:59 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:10:01 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 15:10:03 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:10:06 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:19 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:22 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:24 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:28 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:30 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:32 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:35 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:37 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:40 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:42 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:45 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:12:47 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:23 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:26 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:28 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:32 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:34 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:36 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:39 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:41 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:44 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:46 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:48 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 15:13:51 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:29 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:31 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:34 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:37 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:40 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:42 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:45 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:47 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:50 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:52 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:54 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:17:57 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 16:25:49 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:25:51 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:25:54 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:25:57 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:00 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:02 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:05 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:07 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:09 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:12 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:14 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:26:17 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:18 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:21 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:23 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:26 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:29 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:31 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:34 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:36 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:39 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:41 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:43 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:37:46 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:00 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:03 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:05 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:09 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:11 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:14 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:16 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:18 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:21 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:23 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:26 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:42:28 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:00 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test02_GET_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:03 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test03_GET_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:05 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test04_GET_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:09 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test06_GET_Correct_Content_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:11 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test07_GET_Correct_Content2_for_Existing_Text_File/../../../Resources/www/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:14 GMT 2018
+Response Code: GET
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test08_GET_Correct_Content_from_SubDirectory/../../../Resources/www/another/page3.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:16 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test09_HEAD_Correct_Header_Status_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:18 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test10_HEAD_Correct_Header_Content-Type_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:21 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test11_HEAD_Correct_Header_Content-Length_Line_for_Existing_Text_File/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:23 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test12_HEAD_Correct_Header_Status_Line_for_Non-existing_Text_File/../../../Resources/www/404.html
+Status: 404 Not Found
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:26 GMT 2018
+Response Code: HEAD
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test13_HEAD_Request_Should_Not_Return_Response_Body/../../../Resources/www/index.html
+Status: 200 OK
+
+Server Logs: 
+Log created on Thu Nov 08 16:44:28 GMT 2018
+Response Code: SLURP
+Requested Resource: /cs/studres/2018_2019/CS5001/Practicals/p3-networking/Tests/basic/Test14_Correct_Header_Status_Line_for_Unsupported_Method/../../../Resources/www/501.html
+Status: 501 Not Implemented
